@@ -8,6 +8,13 @@
             "type": "java",
             "name": "MainClass",
             "request": "launch",
+            "mainClass": "com.uws.excercise3.MainClass",
+            "projectName": "UWS_SEP_SOLID_eb7555f5"
+        },
+        {
+            "type": "java",
+            "name": "MainClass",
+            "request": "launch",
             "mainClass": "com.uws.excercise1.MainClass",
             "projectName": "UWS_SEP_SOLID_eb7555f5"
         },
